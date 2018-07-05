@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="20000" id="com.jebuy.Jebuy" version="2.0.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget android-versionCode="20008" id="com.jebuy.Jebuy" version="2.0.0.8" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>je-buy.com</name>
     <description>Best prices for a better lifestyle.</description>
     <author email="jebuy01@gmail.com" href="http://je-buy.com/">jebuy</author>
@@ -29,6 +29,7 @@
     <allow-navigation href="http://192.168.1.3:8100" />
     <allow-navigation href="http://192.168.1.12:8100" />
     <allow-navigation href="http://172.18.0.1:8100" />
+    <allow-navigation href="http://192.168.1.15:8100" />
     <preference name="ShowSplashScreenSpinner" value="true" />
     <preference name="AutoHideSplashScreen" value="true" />
     <preference name="ScrollEnabled" value="false" />
